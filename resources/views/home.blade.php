@@ -25,7 +25,7 @@
   <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style_light.css" rel="stylesheet">
 </head>
 
 <body>
@@ -34,9 +34,10 @@
   <header id="header" class="header-tops">
     <div class="container">
 
-      <h1><a href="{{ route('home') }}">Juniardy CO</a></h1>
+      <h1><a href="{{ route('home') }}">Hi, I'm Juniardy</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       {{-- <a href="index.html" class="mr-auto"><img src="assets/img/favicon.png" alt="" class="img-fluid"></a> --}}
+      <h2>Welcome to my page.</h2>
       <h2>I'm a passionate <span>Programmer</span> from Indonesia</h2>
 
       <nav class="nav-menu d-none d-lg-block">
@@ -52,10 +53,10 @@
 
       <div class="social-links">
         {{-- <a href="https://twitter.com/JuniardyTan" class="twitter"><i class="icofont-twitter"></i></a> --}}
-        <a href="https://www.facebook.com/Okazaki.Juniardy" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="https://www.instagram.com/juniardy.tan/" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="https://www.facebook.com/Okazaki.Juniardy" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/juniardy.tan/" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
         {{-- <a href="#" class="google-plus"><i class="icofont-google-plus"></i></a> --}}
-        <a href="https://www.linkedin.com/in/juniardy-hartanto-2159006b/" class="linkedin"><i class="icofont-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/juniardy-hartanto-2159006b/" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
       </div>
 
     </div>
@@ -74,7 +75,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/me.jpg" class="img-fluid" alt="">
+          <img src="assets/img/no_user.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Programmer &amp; IT Consultant</h3>
@@ -85,7 +86,7 @@
             <div class="col-lg-6">
               <ul>
                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 26 June 1993</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.junrd_co.com</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> junrd-co.herokuapp.com/</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +62 852 6101 1382</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Medan, Sumatera Utara, Indonesia</li>
               </ul>
@@ -683,10 +684,10 @@
             <h3>Social Profiles</h3>
             <div class="social-links">
               {{-- <a href="https://twitter.com/JuniardyTan" class="twitter"><i class="icofont-twitter"></i></a> --}}
-              <a href="https://www.facebook.com/Okazaki.Juniardy" class="facebook"><i class="icofont-facebook"></i></a>
-              <a href="https://www.instagram.com/juniardy.tan/" class="instagram"><i class="icofont-instagram"></i></a>
+              <a href="https://www.facebook.com/Okazaki.Juniardy" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
+              <a href="https://www.instagram.com/juniardy.tan/" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
               {{-- <a href="#" class="google-plus"><i class="icofont-google-plus"></i></a> --}}
-              <a href="https://www.linkedin.com/in/juniardy-hartanto-2159006b/" class="linkedin"><i class="icofont-linkedin"></i></a>
+              <a href="https://www.linkedin.com/in/juniardy-hartanto-2159006b/" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
               {{-- <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
               <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
               <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
@@ -706,7 +707,7 @@
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
-            <h3>Call Me</h3>
+            <h3>WA or Call</h3>
             <p>+62 852 6101 1382</p>
           </div>
         </div>
