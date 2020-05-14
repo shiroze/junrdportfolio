@@ -44,7 +44,7 @@
         <ul>
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#resume">Resume</a></li>
+          {{-- <li><a href="#resume">Resume</a></li> --}}
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -367,7 +367,7 @@
 
   </section><!-- End About Section -->
 
-  <!-- ======= Resume Section ======= -->
+  {{-- <!-- ======= Resume Section ======= -->
   <section id="resume" class="resume">
     <div class="container">
 
@@ -411,7 +411,7 @@
           </div>
         </div>
         <div class="col-lg-6">
-          {{-- <h3 class="resume-title">Sumary</h3>
+          <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
             <h4>Alice Barkley</h4>
             <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
@@ -422,7 +422,7 @@
               <li>alice.barkley@example.com</li>
             </ul>
             </p>
-          </div> --}}
+          </div>
 
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
@@ -441,7 +441,7 @@
       </div>
 
     </div>
-  </section><!-- End Resume Section -->
+  </section><!-- End Resume Section --> --}}
 
   <!-- ======= Services Section ======= -->
   <section id="services" class="services">
