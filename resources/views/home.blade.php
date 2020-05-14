@@ -572,7 +572,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="http://findmatthew.com/img/thumb-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Mobile 2</h4>
               <p>Mobile</p>
@@ -586,7 +586,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="http://findmatthew.com/img/thumb-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/thumb-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Web 2</h4>
               <p>Web</p>
@@ -614,7 +614,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="http://findmatthew.com/img/thumb-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Mobile 1</h4>
               <p>Mobile</p>
@@ -628,7 +628,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="http://findmatthew.com/img/thumb-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Mobile 3</h4>
               <p>Mobile</p>
@@ -642,7 +642,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="http://findmatthew.com/img/thumb-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/thumb-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
