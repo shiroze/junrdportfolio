@@ -530,13 +530,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/inv_stm.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Desktop 1</h4>
-              <p>Desktop</p>
+              <h4>Inventory System</h4>
+              <p>Inventory Management system with module Master, Transaction & Report</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -544,19 +544,19 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/thumb-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/schgown.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>SCHGown</h4>
+              <p>Simple Promotion Web app for end user to see Rental Gown Images</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
+        {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
@@ -564,27 +564,27 @@
               <p>Desktop</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="Desktop 2"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/schgown.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Mobile 2</h4>
-              <p>Mobile</p>
+              <h4>SCHGown POS</h4>
+              <p>Rental & Point of Sale app for sales doing transaction</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 2"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Mobile 2"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/thumb-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
@@ -592,7 +592,7 @@
               <p>Web</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -606,7 +606,21 @@
               <p>Desktop</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="Desktop 3"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div> --}}
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/sonus.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Sonus</h4>
+              <p>Mobile radio application for City Media Group</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/sonus.png" data-gall="portfolioGallery" class="venobox" title="Mobile 1"><i class="bx bx-plus"></i></a>
+                <a href="https://play.google.com/store/apps/details?id=com.cmg.sonus&hl=en" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -614,33 +628,19 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/jurnal_asia.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Mobile 1</h4>
-              <p>Mobile</p>
+              <h4>Jurnal Asia</h4>
+              <p>Mobile news application for Jurnal Asia</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 1"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/jurnal_asia.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 3"><i class="bx bx-plus"></i></a>
+                <a href="https://play.google.com/store/apps/details?id=com.jurnalasia&hl=en" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-mobile">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/thumb-6.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Mobile 3</h4>
-              <p>Mobile</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 3"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/thumb-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
@@ -648,11 +648,11 @@
               <p>Web</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
 
       </div>
 
@@ -707,7 +707,7 @@
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
-            <h3>WA or Call</h3>
+            <h3>Whatsapp</h3>
             <p>+62 852 6101 1382</p>
           </div>
         </div>
