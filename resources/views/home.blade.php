@@ -550,7 +550,7 @@
               <p>Simple Promotion Web app for end user to see Rental Gown Images</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                <a href="https://schgown.com" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
