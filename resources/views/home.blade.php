@@ -536,7 +536,7 @@
               <p>Inventory Management system with module Master, Transaction & Report</p>
               <div class="portfolio-links">
                 {{-- <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a> --}}
-                <a href="https://drive.google.com/drive/folders/19Ulv-WAiCudEW5ZGoJZyIm4_ROwmg3uI?usp=sharing" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                <a href="https://youtu.be/VF9K683_CcU" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
