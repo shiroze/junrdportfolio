@@ -86,7 +86,7 @@
             <div class="col-lg-6">
               <ul>
                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 26 June 1993</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> junrd-co.herokuapp.com/</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> junrd-co.herokuapp.com</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +62 852 6101 1382</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Medan, Sumatera Utara, Indonesia</li>
               </ul>
@@ -180,7 +180,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
             <i class="icofont-simple-smile"></i>
-            <span data-toggle="counter-up">32</span>
+            <span data-toggle="counter-up">20</span>
             <p>Happy Clients</p>
           </div>
         </div>
@@ -188,7 +188,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
           <div class="count-box">
             <i class="icofont-document-folder"></i>
-            <span data-toggle="counter-up">52</span>
+            <span data-toggle="counter-up">10</span>
             <p>Projects</p>
           </div>
         </div>
@@ -196,7 +196,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="icofont-live-support"></i>
-            <span data-toggle="counter-up">548</span>
+            <span data-toggle="counter-up">{{ ((now()->year) - 2014) * 317 * 8 }}</span>
             <p>Hours Of Support</p>
           </div>
         </div>
@@ -535,7 +535,7 @@
               <h4>Inventory System</h4>
               <p>Inventory Management system with module Master, Transaction & Report</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a>
+                {{-- <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a> --}}
                 <a href="https://drive.google.com/drive/folders/19Ulv-WAiCudEW5ZGoJZyIm4_ROwmg3uI?usp=sharing" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -549,7 +549,7 @@
               <h4>SCHGown</h4>
               <p>Simple Promotion Web app for end user to see Rental Gown Images</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                {{-- <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a> --}}
                 <a href="https://schgown.com" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -577,7 +577,8 @@
               <h4>SCHGown POS</h4>
               <p>Rental & Point of Sale app for sales doing transaction</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Mobile 2"><i class="bx bx-plus"></i></a>
+                {{-- <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Mobile 2"><i class="bx bx-plus"></i></a> --}}
+                <a href="https://drive.google.com/drive/folders/1boYgtPx_xSUA2jQcqcbFsXwf4i8H6m6P?usp=sharing" title="More Details" target="_blank"><i class="bx bxl-play-store"></i></a>
                 <a href="https://play.google.com/store/apps/details?id=com.schgown&hl=en_US&gl=US" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -619,8 +620,8 @@
               <h4>Sonus</h4>
               <p>Mobile radio application for City Media Group</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/sonus.png" data-gall="portfolioGallery" class="venobox" title="Mobile 1"><i class="bx bx-plus"></i></a>
-                <a href="https://play.google.com/store/apps/details?id=com.cmg.sonus&hl=en" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                {{-- <a href="assets/img/portfolio/sonus.png" data-gall="portfolioGallery" class="venobox" title="Mobile 1"><i class="bx bx-plus"></i></a> --}}
+                <a href="https://play.google.com/store/apps/details?id=com.cmg.sonus&hl=en" title="More Details" target="_blank"><i class="bx bxl-play-store"></i></a>
               </div>
             </div>
           </div>
@@ -633,8 +634,8 @@
               <h4>Jurnal Asia</h4>
               <p>Mobile news application for Jurnal Asia</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/jurnal_asia.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 3"><i class="bx bx-plus"></i></a>
-                <a href="https://play.google.com/store/apps/details?id=com.jurnalasia&hl=en" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                {{-- <a href="assets/img/portfolio/jurnal_asia.jpg" data-gall="portfolioGallery" class="venobox" title="Mobile 3"><i class="bx bx-plus"></i></a> --}}
+                <a href="https://play.google.com/store/apps/details?id=com.jurnalasia&hl=en" title="More Details" target="_blank"><i class="bx bxl-play-store"></i></a>
               </div>
             </div>
           </div>
