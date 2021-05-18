@@ -85,7 +85,6 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 26 June 1993</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> junrd-co.herokuapp.com</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +62 852 6101 1382</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Medan, Sumatera Utara, Indonesia</li>
