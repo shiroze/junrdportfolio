@@ -578,7 +578,7 @@
               <div class="portfolio-links">
                 {{-- <a href="assets/img/portfolio/schgown.png" data-gall="portfolioGallery" class="venobox" title="Mobile 2"><i class="bx bx-plus"></i></a> --}}
                 <a href="https://play.google.com/store/apps/details?id=com.schgown&hl=en_US&gl=US" title="More Details" target="_blank"><i class="bx bxl-play-store"></i></a>
-                {{-- <a href="https://play.google.com/store/apps/details?id=com.schgown&hl=en_US&gl=US" title="More Details" target="_blank"><i class="bx bx-link"></i></a> --}}
+                <a href="https://www.youtube.com/watch?v=whEw6hI1x18" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
