@@ -535,7 +535,7 @@
               <p>Inventory Management system with module Master, Transaction & Report</p>
               <div class="portfolio-links">
                 {{-- <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a> --}}
-                <a href="https://youtu.be/VF9K683_CcU" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+                <a href="https://youtube.com/playlist?list=PLrT4mbjak6VBLfftvy5xeIbpZ5nPAPqP3" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -653,6 +653,19 @@
             </div>
           </div>
         </div> --}}
+        <div class="col-lg-4 col-md-6 portfolio-item filter-desktop">
+          <div class="portfolio-wrap">
+            <img src="https://instagram.fkno3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/231281103_568800807479437_3229966275174214463_n.jpg?_nc_ht=instagram.fkno3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=O1j_s6xtxTEAX8hKCjb&edm=ABfd0MgBAAAA&ccb=7-4&oh=8dcd10124c939b841483af8351a96ca5&oe=61AABA1B&_nc_sid=7bff83" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>POS Salon</h4>
+              <p>POS System with Stock management</p>
+              <div class="portfolio-links">
+                {{-- <a href="assets/img/portfolio/inv_stm.png" data-gall="portfolioGallery" class="venobox" title="Desktop 1"><i class="bx bx-plus"></i></a> --}}
+                <a href="#" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div>
 
